@@ -40,7 +40,7 @@ function App() {
           <h2>Documentation</h2>
           <p>Your questions, answered</p>
           <ul>
-            <li>
+            {/* <li>
               <a href="https://vite.dev/" target="_blank">
                 <img className="logo" src={viteLogo} alt="" />
                 Explore Vite
@@ -51,7 +51,7 @@ function App() {
                 <img className="button-icon" src={reactLogo} alt="" />
                 Learn more
               </a>
-            </li>
+            </li> */}
           </ul>
         </div>
         <div id="social">
